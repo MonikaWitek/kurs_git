@@ -4,3 +4,7 @@
 #
 #
 ### Narzędzia
+
+
+
+# Zmiana
